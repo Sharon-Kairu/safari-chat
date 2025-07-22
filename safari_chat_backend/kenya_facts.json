@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Nairobi National Park",
+    "location": "Nairobi County",
+    "description": "A unique wildlife park located just 7km from Nairobi's city center, home to lions, giraffes, rhinos, and more.",
+    "entrance_fee": {
+      "citizen": "Ksh 400",
+      "resident": "Ksh 400",
+      "non_resident": "$43"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Game drives", "Picnicking", "Bird watching"],
+    "best_time_to_visit": "Early morning or late afternoon",
+    "coordinates": {
+      "lat": -1.3733,
+      "lng": 36.8580
+    }
+  },
+  {
+    "name": "Masai Mara National Reserve",
+    "location": "Narok County",
+    "description": "World-renowned reserve known for the Great Wildebeest Migration and rich wildlife including the Big Five.",
+    "entrance_fee": {
+      "citizen": "Ksh 1000",
+      "resident": "Ksh 1200",
+      "non_resident": "$80"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Game drives", "Hot air balloon safaris", "Photography"],
+    "best_time_to_visit": "July to October",
+    "coordinates": {
+      "lat": -1.4931,
+      "lng": 35.1439
+    }
+  },
+  {
+    "name": "Mount Kenya National Park",
+    "location": "Kirinyaga/Embu Counties",
+    "description": "Home to Kenya’s highest mountain, it offers scenic hikes, alpine vegetation, and rare species.",
+    "entrance_fee": {
+      "citizen": "Ksh 300",
+      "resident": "Ksh 350",
+      "non_resident": "$52"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Hiking", "Climbing", "Camping"],
+    "best_time_to_visit": "January–March and July–October",
+    "coordinates": {
+      "lat": -0.1521,
+      "lng": 37.3084
+    }
+  },
+  {
+    "name": "Hell's Gate National Park",
+    "location": "Naivasha, Nakuru County",
+    "description": "Known for its dramatic cliffs, gorges, and geothermal activity. One of the few parks where you can walk or cycle.",
+    "entrance_fee": {
+      "citizen": "Ksh 300",
+      "resident": "Ksh 350",
+      "non_resident": "$26"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Biking", "Rock climbing", "Hiking"],
+    "best_time_to_visit": "All year round",
+    "coordinates": {
+      "lat": -0.8841,
+      "lng": 36.3127
+    }
+  },
+  {
+    "name": "Diani Beach",
+    "location": "Kwale County",
+    "description": "A pristine white-sand beach on the Indian Ocean, ideal for relaxation and water sports.",
+    "entrance_fee": {
+      "citizen": "Free",
+      "resident": "Free",
+      "non_resident": "Free"
+    },
+    "opening_hours": "Open all day",
+    "activities": ["Snorkeling", "Jet skiing", "Swimming", "Sunbathing"],
+    "best_time_to_visit": "December to March",
+    "coordinates": {
+      "lat": -4.3040,
+      "lng": 39.5945
+    }
+  },
+  {
+    "name": "Lamu Old Town",
+    "location": "Lamu County",
+    "description": "A UNESCO World Heritage site with rich Swahili culture, narrow alleys, and traditional dhow boats.",
+    "entrance_fee": {
+      "citizen": "Free",
+      "resident": "Free",
+      "non_resident": "Free"
+    },
+    "opening_hours": "Open all day",
+    "activities": ["Cultural tours", "Museum visits", "Dhow sailing"],
+    "best_time_to_visit": "November during the Lamu Cultural Festival",
+    "coordinates": {
+      "lat": -2.2717,
+      "lng": 40.9020
+    }
+  },
+  {
+    "name": "Lake Nakuru National Park",
+    "location": "Nakuru County",
+    "description": "Famous for its flamingos and white rhinos, the park also hosts lions, leopards, and scenic viewpoints.",
+    "entrance_fee": {
+      "citizen": "Ksh 800",
+      "resident": "Ksh 1000",
+      "non_resident": "$60"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Game drives", "Bird watching", "Photography"],
+    "best_time_to_visit": "June to March",
+    "coordinates": {
+      "lat": -0.3667,
+      "lng": 36.0833
+    }
+  },
+  {
+    "name": "Kisumu Impala Sanctuary",
+    "location": "Kisumu County",
+    "description": "A small sanctuary along Lake Victoria hosting impalas, leopards, and various birds.",
+    "entrance_fee": {
+      "citizen": "Ksh 200",
+      "resident": "Ksh 300",
+      "non_resident": "$22"
+    },
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "activities": ["Wildlife viewing", "Lake Victoria boat rides", "Educational tours"],
+    "best_time_to_visit": "Morning or late afternoon",
+    "coordinates": {
+      "lat": -0.1065,
+      "lng": 34.7570
+    }
+  },
+  {
+    "name": "Fort Jesus Museum",
+    "location": "Mombasa County",
+    "description": "Built by the Portuguese in the 16th century, Fort Jesus is a historical site and museum showcasing coastal history.",
+    "entrance_fee": {
+      "citizen": "Ksh 200",
+      "resident": "Ksh 200",
+      "non_resident": "$12"
+    },
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "activities": ["Historical tours", "Museum exhibitions", "Photography"],
+    "best_time_to_visit": "Morning hours",
+    "coordinates": {
+      "lat": -4.0626,
+      "lng": 39.6796
+    }
+  },
+  {
+    "name": "Giraffe Centre",
+    "location": "Lang’ata, Nairobi",
+    "description": "A conservation center focused on the endangered Rothschild's giraffe. Visitors can feed and learn about giraffes.",
+    "entrance_fee": {
+      "citizen": "Ksh 400",
+      "resident": "Ksh 400",
+      "non_resident": "$15"
+    },
+    "opening_hours": "9:00 AM – 5:00 PM",
+    "activities": ["Feeding giraffes", "Educational tours", "Nature trail walks"],
+    "best_time_to_visit": "Morning hours",
+    "coordinates": {
+      "lat": -1.3734,
+      "lng": 36.7585
+    }
+  },
+
+{
+    "name": "Bomas of Kenya",
+    "location": "Lang’ata, Nairobi",
+    "description": "A cultural center showcasing traditional Kenyan music, dance, and crafts.",
+    "entrance_fee": {
+      "citizen": "Ksh 200",
+      "resident": "Ksh 200",
+      "non_resident": "$10"
+    },
+    "opening_hours": "9:00 AM – 5:00 PM",
+    "activities": ["Cultural performances", "Craft exhibitions", "Traditional meals"],
+    "best_time_to_visit": "Afternoon for performances",
+    "coordinates": {
+      "lat": -1.3733,
+      "lng": 36.7580
+    }
+  }
+]
