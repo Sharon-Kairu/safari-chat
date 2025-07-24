@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class ApiService {
-  static const String baseUrl = "http://10.0.2.2:5000"; // Use 10.0.2.2 for Android emulator
+  static const String baseUrl = "http://192.168.100.17:5000"; // Use 10.0.2.2 for Android emulator
 
   static Future<String> pingServer() async {
     final response = await http.get(Uri.parse("$baseUrl/ping"));
